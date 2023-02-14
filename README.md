@@ -18,18 +18,15 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamdani169&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="dnm's Github Stats">
 
 </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.instagram.com/adam_daniam/" target="_blank" rel="noopener noreferrer"><img src="https://telegra.ph/file/53d1434bda603a4cf679e.png" width="50" /></a>
-&nbsp; <a href="mailto:adam.daniam@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://telegra.ph/file/6245ac629273d1769a26d.png"  width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/adam_daniam/" target="_blank" rel="noopener noreferrer"><img src="https://telegra.ph/file/53d1434bda603a4cf679e.png" width="32" /></a>
+&nbsp; <a href="mailto:adam.daniam@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://telegra.ph/file/6245ac629273d1769a26d.png"  width="32" /></a>
 </p>
 
 ⭐️ From [devSouvik](https://github.com/devSouvik)<br>
