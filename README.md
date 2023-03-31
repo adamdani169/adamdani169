@@ -1,3 +1,4 @@
+<div align="center">
 <h2> Hey there! I'm dnm. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://www.gifcen.com/wp-content/uploads/2022/10/capybara-gif-5.gif" width="500"/>
 
